@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.nowarecode.spi",
+        "sha256_cert_fingerprints": [
+          "0D3EE2CBB6296392884547BDD684589D9B46B8FCD00F33E01EED64B5F0B3147D"  
+        ]
+      }
+    }
+  ]
+  
