@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/meta/",
-      "destination": "/",
-      "permanent": false
+      "source": "/.well-known/(.*)",
+      "destination": "/.well-known/$1"
     }
   ]
 }
